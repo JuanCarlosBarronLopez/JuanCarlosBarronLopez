@@ -1,24 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1500&color=C9D1D9&center=true&vCenter=true&width=700&lines=Juan+Carlos+Barr%C3%B3n+L%C3%B3pez;Software+Architect+%26+Engineer;Secure+Systems+Developer" alt="Header" />
-
-<br/>
-
-<sub><i>Arquitectura, seguridad e inteligencia integrada.</i></sub>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/juancarlos-barron/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="juancarlosbarronlopez02@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/JuanCarlosBarronLopez">
-  <img src="https://img.shields.io/badge/Portfolio-171717?style=flat-square&logo=vercel&logoColor=white" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&width=700&lines=Arquitectura%2C+seguridad+e+inteligencia+integrada.;La+velocidad+construye+prot%C3%B3tipos.+La+arquitectura+construye+sistemas." alt="Slogan" />
 
 </div>
 
@@ -28,13 +10,11 @@
 
 ## Sobre mí
 
-Soy estudiante de **Ingeniería en Desarrollo de Software Multiplataforma** con especialidad en Tecnologías de la Información e Innovación Digital.
+Diseño sistemas desde la arquitectura — priorizando seguridad estructural, privacidad y resiliencia antes que velocidad de entrega.
 
-Diseño sistemas desde la arquitectura — priorizando seguridad estructural, privacidad y resiliencia antes que velocidad de entrega. Integro inteligencia artificial de forma **contenida y propositiva**: como herramienta que amplifica el criterio ingenieril, no como sustituto del mismo.
+Integro inteligencia artificial de forma **contenida y propositiva**: como herramienta que amplifica el criterio ingenieril, no como sustituto del mismo. Sin atajos. Sin improvisación.
 
-Mi enfoque: sistemas que no solo funcionan, sino que están preparados para crecer, resistir y adaptarse.
-
-> *La velocidad construye prototipos. La arquitectura construye sistemas.*
+Mi obsesión es construir software que no solo funcione hoy, sino que esté preparado para crecer, resistir y adaptarse — con datos bajo control y arquitectura que lo soporte.
 
 <br/>
 
@@ -45,15 +25,15 @@ Mi enfoque: sistemas que no solo funcionan, sino que están preparados para crec
 <table>
   <tr>
     <td align="center" width="33%">
-      <b>🏗 Arquitectura</b><br/>
+      <b>🏗 Arquitectura</b><br/><br/>
       <sub>Diseño modular · Patrones de seguridad<br/>Estructuras escalables · Sistemas distribuidos</sub>
     </td>
     <td align="center" width="33%">
-      <b>🔒 Seguridad & Privacidad</b><br/>
+      <b>🔒 Seguridad & Privacidad</b><br/><br/>
       <sub>Control de datos · Software robusto<br/>IA local · Privacidad como base de diseño</sub>
     </td>
     <td align="center" width="33%">
-      <b>🧠 Inteligencia Aplicada</b><br/>
+      <b>🧠 Inteligencia Aplicada</b><br/><br/>
       <sub>LLMs contenidos · Prompting especializado<br/>Modelos locales y en línea · Agentes controlados</sub>
     </td>
   </tr>
@@ -136,8 +116,8 @@ Mi enfoque: sistemas que no solo funcionan, sino que están preparados para crec
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 Chatbot privado (Personal)</h3>
-      <p>Asistente de IA local y privado, diseñado con control total sobre los datos. Sin dependencias de nube. Integración con modelos locales vía Ollama.</p>
+      <h3>🤖 Chatbot privado</h3>
+      <p>Asistente de IA local y privado, con control total sobre los datos. Sin dependencias de nube. Integración con modelos locales vía Ollama.</p>
       <p>
         <img src="https://img.shields.io/badge/Ollama-171717?style=flat-square&logoColor=white"/>
         <img src="https://img.shields.io/badge/IA%20Local-6B21A8?style=flat-square&logoColor=white"/>
@@ -146,8 +126,8 @@ Mi enfoque: sistemas que no solo funcionan, sino que están preparados para crec
       <sub>Repositorio privado · En uso activo</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🏢 Business Network (En desarrollo)</h3>
-      <p>Plataforma empresarial que integra gestión de inventarios inteligente, alertas de tendencias y conexión entre negocios — impulsada por IA contenida.</p>
+      <h3>🏢 Business Network</h3>
+      <p>Plataforma empresarial con gestión de inventarios inteligente, alertas de tendencias y conexión entre negocios — impulsada por IA contenida.</p>
       <p>
         <img src="https://img.shields.io/badge/Full%20Stack-171717?style=flat-square&logoColor=white"/>
         <img src="https://img.shields.io/badge/IA%20Integrada-6B21A8?style=flat-square&logoColor=white"/>
@@ -189,13 +169,11 @@ Mi enfoque: sistemas que no solo funcionan, sino que están preparados para crec
 
 <div align="center">
 
-<sub>Fundada y dirigida por Juan Carlos Barrón López</sub>
-
 <br/>
 
 **[OMNARA](https://OMNARA-LINK)** — Optimización de flujos, integración de IA y arquitectura de software empresarial.
 
-Software diseñado sin atajos. Sistemas preparados para crecer.
+<sub>Software diseñado sin atajos. Sistemas preparados para crecer.</sub>
 
 <br/>
 
@@ -242,12 +220,8 @@ Software diseñado sin atajos. Sistemas preparados para crecer.
 
 <sub>Disponible para proyectos freelance · Colaboraciones técnicas · Desarrollo a medida</sub>
 
-<br/>
-
-<a href="mailto:TU-EMAIL"><img src="https://img.shields.io/badge/Trabajemos%20juntos-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-
 <br/><br/>
 
-<sub>© 2025 Juan Carlos Barrón López · <a href="https://OMNARA-LINK">OMNARA</a></sub>
+<sub>© 2026 Juan Carlos Barrón López · <a href="https://OMNARA-LINK">OMNARA</a></sub>
 
 </div>
